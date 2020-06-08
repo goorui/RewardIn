@@ -3,3 +3,4 @@ backend/.env
 backend/test*
 .DS_Store
 yarn-error.log
+.env
