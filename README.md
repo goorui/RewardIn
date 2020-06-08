@@ -12,7 +12,7 @@
 3. run the app under the project root directory: 
    * npm start
 
-### issues
+## issues
 1. When using react-native init, cocoapads cannot be installed
 <!-- 
 ### workarounds
